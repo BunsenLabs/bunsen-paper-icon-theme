@@ -1,0 +1,14 @@
+[Icon Theme]
+Name=Paper-Bunsen
+Comment=Substitute some icons in the Paper theme for BunsenLabs
+Inherits=Paper
+
+# Directory list
+Directories=24x24/status
+
+# Status
+
+[24x24/status]
+Context=Status
+Size=24
+Type=Fixed

@@ -1,0 +1,16 @@
+Source: bunsen-paper-icon-theme
+Section: x11
+Priority: optional
+Maintainer: John Crawley <john@bunsenlabs.org>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+Homepage: https://github.com/BunsenLabs/bunsen-paper-icon-theme
+Vcs-Git: https://github.com/BunsenLabs/bunsen-paper-icon-theme.git
+Vcs-Browser: https://github.com/BunsenLabs/bunsen-paper-icon-theme
+
+Package: bunsen-paper-icon-theme
+Architecture: all
+Depends: ${misc:Depends}, paper-icon-theme
+Description: Some substitute icons for the Paper icon theme.
+ Some icons substituted for those of the Paper icon theme.
+ This theme inherits Paper and depends on paper-icon-theme.

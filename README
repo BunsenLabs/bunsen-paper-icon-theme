@@ -1,0 +1,14 @@
+BunsenLabs Paper Icon Theme
+===========================
+
+Some substitute icons for the Paper icon theme.
+
+At present the substituted icons are: 
+24x24/status/audio-volume-{high,low,medium,muted}.svg
+which are replaced by symlinks to the equivalents in 24x24/panel.
+
+Inherits Paper.
+
+### License
+
+GPL3+
