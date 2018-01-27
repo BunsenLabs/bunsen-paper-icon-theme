@@ -1,11 +1,18 @@
 BunsenLabs Paper Icon Theme
 ===========================
 
-Some substitute icons for the Paper icon theme.
+Some substituted and added icons for the Paper icon theme.
 
-At present the substituted icons are: 
+The substituted icons are: 
+
 24x24/status/audio-volume-{high,low,medium,muted}.svg
 which are replaced by symlinks to the equivalents in 24x24/panel.
+
+Added icons:
+
+{16x16,22x22,24x24,32x32,48x48,64x64,96x96}/places/distributor-logo-bunsenlabs.png
+scalable/places/distributor-logo-bunsenlabs.svg
+and symlinks distributor-logo, start-here and start-here-bunsenlabs to those.
 
 Inherits Paper.
 
