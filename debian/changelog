@@ -1,3 +1,9 @@
+bunsen-paper-icon-theme (9.2-1) helium; urgency=medium
+
+  * Add xfce4-power-manager ac icons.
+
+ -- John Crawley <john@bunsenlabs.org>  Thu, 29 Mar 2018 17:31:12 +0900
+
 bunsen-paper-icon-theme (9.1-2) helium; urgency=medium
 
   * Add BunsenLabs link for Debian alternative start-here.svg
