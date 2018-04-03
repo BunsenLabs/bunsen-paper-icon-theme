@@ -8,6 +8,9 @@ The substituted icons are:
 24x24/status/audio-volume-{high,low,medium,muted}.svg
 which are replaced by symlinks to the equivalents in 24x24/panel.
 
+{16x16,22x22,24x24,32x32,48x48,64x64,96x96}/categories/xfpm-ac-adapter.png
+scalable/categories/xfpm-ac-adapter.svg
+
 Added icons:
 
 {16x16,22x22,24x24,32x32,48x48,64x64,96x96}/places/distributor-logo-bunsenlabs.png
