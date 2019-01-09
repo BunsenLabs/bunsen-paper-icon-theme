@@ -1,3 +1,10 @@
+bunsen-paper-icon-theme (10.0-1) lithium; urgency=medium
+
+  * Migrate to Lithium.
+  * Update standards to 4.3.0 and debhelper level to 10.
+
+ -- John Crawley <john@bunsenlabs.org>  Wed, 09 Jan 2019 18:16:14 +0900
+
 bunsen-paper-icon-theme (9.2-1) helium; urgency=medium
 
   * Add xfce4-power-manager ac icons.
