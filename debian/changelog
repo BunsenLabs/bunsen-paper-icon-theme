@@ -1,3 +1,9 @@
+bunsen-paper-icon-theme (10.1-1) lithium; urgency=medium
+
+  * Replace Faenza-style BunsenLabs buttons with Lithium-style flames.
+
+ -- John Crawley <john@bunsenlabs.org>  Sat, 11 Jul 2020 10:57:05 +0900
+
 bunsen-paper-icon-theme (10.0.1-1) lithium; urgency=medium
 
   * Fix permissions on one image.
