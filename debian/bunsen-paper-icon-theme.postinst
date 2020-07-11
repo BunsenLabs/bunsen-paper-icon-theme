@@ -1,5 +1,11 @@
 #!/bin/sh
-# postinst script for bunsen-faenza-icon-theme
+# postinst script for bunsen-paper-icon-theme
+
+# Summary of ways this script is called:
+#    postinst configure most-recently-configured-version(null if not upgrade)
+#    old-postinst abort-upgrade new-version
+#    conflictor's-postinst abort-remove in-favour package new-version
+#    deconfigured's-postinst abort-deconfigure in-favour failed-install-package version removing conflicting-package version
 
 set -e
 
@@ -13,7 +19,7 @@ configure|abort-upgrade)
     if [ -f "$BL_START_HERE" ]
     then
         mkdir -p "$START_HERE_ALT_DIR"
-        update-alternatives --install "$START_HERE_ALT_LINK" start-here.svg "$BL_START_HERE" 35
+        update-alternatives --install "$START_HERE_ALT_LINK" start-here.svg "$BL_START_HERE" 40
     fi
     ;;
 esac
